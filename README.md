@@ -1,4 +1,4 @@
-Brawl Stars V46 MOD! Client by Speigen
+Brawl Stars V46 MOD! Client by @SpeigenGit
 
 Discord link : https://discord.gg/kcVzmSTP58
 
