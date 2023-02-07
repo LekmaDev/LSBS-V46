@@ -4,6 +4,8 @@ Discord link : https://discord.gg/kcVzmSTP58
 
 ANDROID (GOOGLE DRIVE) : https://drive.google.com/file/d/14iVTrrCBrJkKHT2oWdtQ0J9fAi1-stT7/view?usp=drivesdk
 
+ANDROID (GOOGLE DRIVE fixing the effects of buster's attack) : https://drive.google.com/file/d/19AXMsywbYD8hFcudjglXVcBbDVr268EZ/view?usp=drivesdk
+
 Server ZIP: https://codeload.github.com/LekmaDev/LSBS-V46/zip/refs/heads/main
 
 ## Requirements: ##
