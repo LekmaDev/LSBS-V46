@@ -2,7 +2,7 @@ Brawl Stars V46 MOD! Client by @SpeigenGit
 
 Discord link : https://discord.gg/kcVzmSTP58
 
-ANDROID (GOOGLE DRIVE) : https://drive.google.com/file/d/1MJ-aURzZRiAZopf8Bgx5ek2ZqbX1KpPg/view?usp=drivesdk
+ANDROID (GOOGLE DRIVE) : https://drive.google.com/file/d/1BT2ildyXKWIsVpYccME8sXicmvYJR4zv/view?usp=drivesdk
 
 Server ZIP: https://codeload.github.com/LekmaDev/LSBS-V46/zip/refs/heads/main
 
