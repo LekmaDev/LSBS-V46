@@ -1,4 +1,6 @@
-Brawl Stars V46 MOD! Client by @SpeigenGit
+Brawl Stars V46 MOD!
+
+# This is a fork from original BSDS by [Crazor](https://github.com/CrazorTheCat)
 
 Discord link : https://discord.gg/kcVzmSTP58
 
@@ -21,3 +23,8 @@ Server ZIP: https://codeload.github.com/LekmaDev/LSBS-V46/zip/refs/heads/main
 
 ![lsbsv46](https://cdn.discordapp.com/attachments/1040608064681803827/1072136009237659718/Screenshot_20230206_183338.jpg)
 ![lsbsv46](https://cdn.discordapp.com/attachments/1040608064681803827/1072136009623552072/Screenshot_20230206_184033.jpg)
+
+## credits ##
+[Speigen](https://github.com/SpeigenGit) Android Client
+
+[Crazor](https://github.com/CrazorTheCat) for his zip from [BSDS V44](https://github.com/CrazorTheCat/BSDS-V44)
